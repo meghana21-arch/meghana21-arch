@@ -1,7 +1,8 @@
-👋 Hi, I’m Sai Meghana — Backend Engineer at Digit Insurance & Systems enthusiast  
-💻 I build scalable apps with Java, Spring Boot, React, and AWS  
+👋 Hi, I’m Sai Meghana — Masters Student at University of Florida 
+🚀 Currently exploring and working on AI-powered platforms 
+🏷️ Previously Backend Engineer at Digit Insurance   
+💻 I build scalable apps with Java, Spring Boot, React, and AWS, and a system enthusiast 
 🔬 Passionate about smart grids, optimization algorithms & infra automation  
-🚀 Currently modernizing insurance workflows & exploring AI-powered platforms  
 📫 Reach me via my socials below
 
 ## 🌐 Socials:

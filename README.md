@@ -1,5 +1,5 @@
-👋 Hi, I’m Sai Meghana — Masters Student at University of Florida 
-🚀 Currently exploring and working on AI-powered platforms 
+👋 Hi, I’m Sai Meghana — Masters Student at University of Florida <br/> 
+🚀 Currently exploring and working on AI-powered platforms <br/>
 🏷️ Previously Backend Engineer at Digit Insurance   
 💻 I build scalable apps with Java, Spring Boot, React, and AWS, and a system enthusiast 
 🔬 Passionate about smart grids, optimization algorithms & infra automation  
